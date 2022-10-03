@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Carloll-react/static/css/main.073c9b0a.css",
+    "main.js": "/Carloll-react/static/js/main.ff36dbbf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Carloll-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Carloll-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Carloll-react/index.html",
+    "main.073c9b0a.css.map": "/Carloll-react/static/css/main.073c9b0a.css.map",
+    "main.ff36dbbf.js.map": "/Carloll-react/static/js/main.ff36dbbf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Carloll-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ff36dbbf.js"
+  ]
+}
